@@ -1,0 +1,10 @@
+# Vim swap/backup/netrw files
+*.swp
+*.swo
+*.swm
+*.tmp
+.netrwhist
+
+# Ignore netrw history inside .vim
+.vim/.netrwhist
+
